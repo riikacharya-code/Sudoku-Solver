@@ -1,6 +1,6 @@
 ;;; -----------------------------------------------
-;;;  CMPU-365-Final-Project
 ;;;  Sudoku Solver Hill Climbing
+;;;  Riik Acharya
 ;;; -----------------------------------------------
 
 ; constraint array
