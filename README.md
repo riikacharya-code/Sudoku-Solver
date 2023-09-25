@@ -1,5 +1,5 @@
 This project can take in any full sudoku board and can solve it mostly, if not completely
-To begin running the project, cd into the directory CMPU_365_Final_Project and open up emacs. 
+To begin running the project, cd into this directory and open up emacs. 
 
 This project containts two files you can compile and run. First is the hill-climbing file, and second is the simulated-annealing file.
 
